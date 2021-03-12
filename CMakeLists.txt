@@ -7,7 +7,7 @@
 cmake_minimum_required(VERSION 3.0)
 
 # project name and languages
-project(MyProject C CXX RC)
+project(TestCBT C CXX RC)
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
     # using Clang
